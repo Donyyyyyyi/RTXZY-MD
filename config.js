@@ -1,7 +1,7 @@
 global.owner = ['6281327748566']  
 global.mods = ['6281327748566'] 
 global.prems = ['6281327748566']
-global.nameowner = 'Don y
+global.nameowner = 'Dony'
 global.numberowner = '6281327748566' 
 global.mail = 'support@tioprm.my.id' 
 global.gc = 'https://chat.whatsapp.com/LFEvuJRrVhSJ1FG7HhpT9J'
@@ -15,18 +15,18 @@ global.author = 'Bot WhatsApp'
 global.maxwarn = '2' // Peringatan maksimum
 
 //INI WAJIB DI ISI!//
-global.btc = 'YOUR_APIKEY_HERE' 
+global.btc = 'fjDrmzrm' 
 //Daftar terlebih dahulu https://api.botcahx.live
 
 //INI OPTIONAL BOLEH DI ISI BOLEH JUGA ENGGA//
-global.lann = 'YOUR_APIKEY_HERE'
+global.lann = 'Cg2qNWqk'
 //Daftar https://api.betabotz.org 
 
 global.APIs = {   
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.botcahx.live': 'APIKEY' 
+  'https://api.botcahx.live': 'fjDrmzrm' 
 }
 
 let fs = require('fs')
